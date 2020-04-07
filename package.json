@@ -1,0 +1,16 @@
+{
+  "name": "path-gradients",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "create": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/polyline": "^1.1.0",
+    "urlencode": "^1.1.0"
+  }
+}
